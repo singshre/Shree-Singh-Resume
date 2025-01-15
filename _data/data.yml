@@ -16,7 +16,7 @@ sidebar:
     email: singshre@yahoo.com
     phone: +91 9922503781
     timezone: India (IST)
-    citizenship:India
+    citizenship: India
     website: https://github.com/singshre/Profile
     linkedin: https://www.linkedin.com/in/shree-singh-2b989a25/
     xing: 
@@ -33,196 +33,169 @@ sidebar:
     leetcode: 
     pdf: 
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
+languages:
+  title: Languages
+  info:
+    - idiom: English
+      level: Professional
+    - idiom: Hindi
+      level: Professional
+    - idiom: 
+      level: 
 
-        - idiom: Hindi
-          level: Professional
+interests:
+  title: Interests
+  info:
+    - item: Climbing
+      link:
+    - item: Snowboarding
+      link:
+    - item: Cooking
+      link:
 
-        - idiom: 
-          level: 
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Highly motivated and dedicated professional with 10 years of experience in Application/Production support and Automation. 
-      Proven expertise in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, APP Dynamics, 
-      Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Experienced in supporting investment management solutions 
-      such as Charles River IMS within the Investment Banking and Asset Management sectors. Adept at automating manual tasks 
-      using various scripting languages (PowerShell, Shell scripting, VB Script). 
-      Seeking an environment that fosters continuous learning and provides opportunities for personal and professional growth.
+  title: Career Profile
+  summary: |
+    Highly motivated and dedicated professional with 10 years of experience in Application/Production support and Automation.
+    Proven expertise in Build and Release/Software Configuration Management, leveraging tools like ITRS Geneos, APP Dynamics, 
+    Unix/Linux, MS-SQL/Oracle, AWS, Autosys, and Shell Scripting. Experienced in supporting investment management solutions 
+    such as Charles River IMS within the Investment Banking and Asset Management sectors. Adept at automating manual tasks 
+    using various scripting languages (PowerShell, Shell scripting, VB Script).
+    Seeking an environment that fosters continuous learning and provides opportunities for personal and professional growth.
+
 education:
-    title: Education
-    info:
-      - degree: MCA - Master of Computer Application
-        university: MCU Bhopal
-        time: 2010 - 2013
-        details: |
-          
-      - degree: BCA- Bachelor of Computer Application
-        university: GICTS Gwalior
-        time: 2007 - 2010
-        details: |
+  title: Education
+  info:
+    - degree: MCA - Master of Computer Application
+      university: MCU Bhopal
+      time: 2010 - 2013
+      details: |
+        
+    - degree: BCA- Bachelor of Computer Application
+      university: GICTS Gwalior
+      time: 2007 - 2010
+      details: |
+
           
 
 experiences:
-    title: Experiences
-    info:
-      - role: : Assistant vice president (AVP)
-        time: 2024 - Present
-        company: Barclays Global Service Centre Private Limited (Barclays), Pune
-        details: |
-     Platform Support and Business Support in Investment Banking and Asset Management, supporting solutions like Charles River IMS.
-Hands-On experience with any cloud service (AWS, GCP).
-Well versed in monitoring and alerting using tool such as Grafana, Prometheus, Alert Manager, Kibana, PagerDuty.
-Onboarded and set up ITRS for comprehensive monitoring across all applications, including dashboard creation.
-Experience in Trading, Order Management, Execution Management, Blotter Configuration, Workflow Monitor, Compliance, and Portfolio Management.
-Cross-platform web-based application troubleshooting and support in production environments.
-Automated day-to-day tasks using scripting languages to reduce manual effort and errors.
-Complete setup and monitoring using tools like ITRS and APPD across teams.
-Proficient in k8s, kibana, Grafana, UNIX, Autosys, SQL, AWS, Shell Script.
-Expertise in Incident, Problem, and Change Management.
-Managed patching activities for multiple servers and applications.
-Conducted SWAP, CPU, Disk, and Memory Utilization monitoring and management.
-Remote system administration using tools like SSH and Putty.
-Solid understanding of ITIL processes and strong communication skills.
-Application support and management for Salesforce and Barclaycard Business Online Service (BBOS).
-Enhanced monitoring and automation to predict and alert infrastructure issues.
-Deployed and managed Red Hat OpenShift applications, scaling as needed.
-Monitored web page availability using Thousand Eyes and AppOmni.
-Supported the entire investment life cycle of Charles River IMS, from portfolio management to post-trade settlement.
-Monitored service performance, debugged log errors, and managed platform issues.
-Participated in platform support, application services, and automation of support functions.
-Prepared deployment plans supported and developed IXOS (Bar Code scanning) and Oracle PL/SQL.
-Provided 24x7 on-call support and maintained relationships with global stakeholders.
+  title: Experiences
+  info:
+    - role: Assistant Vice President (AVP)
+      time: 2024 - Present
+      company: Barclays Global Service Centre Private Limited (Barclays), Pune
+      details: |
+        Platform Support and Business Support in Investment Banking and Asset Management, supporting solutions like Charles River IMS.
+        Hands-On experience with any cloud service (AWS, GCP).
+        Well versed in monitoring and alerting using tools such as Grafana, Prometheus, Alert Manager, Kibana, PagerDuty.
+        Onboarded and set up ITRS for comprehensive monitoring across all applications, including dashboard creation.
+        Experience in Trading, Order Management, Execution Management, Blotter Configuration, Workflow Monitor, Compliance, and Portfolio Management.
+        Cross-platform web-based application troubleshooting and support in production environments.
+        Automated day-to-day tasks using scripting languages to reduce manual effort and errors.
+        Complete setup and monitoring using tools like ITRS and APPD across teams.
+        Proficient in k8s, kibana, Grafana, UNIX, Autosys, SQL, AWS, Shell Script.
+        Expertise in Incident, Problem, and Change Management.
+        Managed patching activities for multiple servers and applications.
+        Conducted SWAP, CPU, Disk, and Memory Utilization monitoring and management.
+        Remote system administration using tools like SSH and Putty.
+        Solid understanding of ITIL processes and strong communication skills.
+        Application support and management for Salesforce and Barclaycard Business Online Service (BBOS).
+        Enhanced monitoring and automation to predict and alert infrastructure issues.
+        Deployed and managed Red Hat OpenShift applications, scaling as needed.
+        Monitored web page availability using Thousand Eyes and AppOmni.
+        Supported the entire investment life cycle of Charles River IMS, from portfolio management to post-trade settlement.
+        Monitored service performance, debugged log errors, and managed platform issues.
+        Participated in platform support, application services, and automation of support functions.
+        Prepared deployment plans supported and developed IXOS (Bar Code scanning) and Oracle PL/SQL.
+        Provided 24x7 on-call support and maintained relationships with global stakeholders.
 
-      - role: Application Support Specialist 
-        time: 2019 - 2024
-        company: Barclays Global Service Centre Private Limited (Barclays), Pune
-        details: |
+    - role: Application Support Specialist
+      time: 2019 - 2024
+      company: Barclays Global Service Centre Private Limited (Barclays), Pune
+      details: |
         
-      - role: Software Engineer
-        time: 2014 - 2019
-        company: Mphasis Pvt Ltd , Pune
-        details: |
-         
+    - role: Software Engineer
+      time: 2014 - 2019
+      company: Mphasis Pvt Ltd, Pune
+      details: |
 
 certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            
+  title: Certifications
+  list:
+    - name: CV Builder
+      start: 2020
+      end: 2021
+      organization: Microsoft
+      credentialid: 111-222
+      credentialurl: www.google.com
+      credentialname: Google
+      details: |
+        Second paragraph. Sed eleifend enim ante, vitae efficitur purus fringilla vel. Ut euismod, sem sed vulputate venenatis, 
+        justo diam viverra velit, sed rhoncus leo leo eu justo. Suspendisse placerat risus ante, sed porta nisi blandit at.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+    - name: Git learning
+      start: 2019
+      end:
+      organization: Microsoft
+      credentialid: 111-222
+      credentialurl: www.github.com
+      credentialname: Github
+      details: |
+        Older certification. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget orci purus. Nullam ultrices neque nibh. 
+        Aenean fermentum, felis vulputate suscipit accumsan, sem enim bibendum augue, sed convallis arcu lacus at dui. 
+        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+        Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Projects
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Velocity
+      link: "#hook"
+      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: DevStudio
+      link: "#"
+      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Tempo
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote their products or services and to attract users & investors."
+    - title: Atom
+      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps."
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: OSS Contributions
+  intro: >
+    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+    - title: Tempo
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote their products or services and to attract users & investors."
+    - title: Atom
+      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps."
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+  title: Publications
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  papers:
+    - title: The Art of Computer Programming
+      link: "#"
+      authors: Donald E. Knuth
+      conference: Addison-Wesley, 1968
+    - title: "Genetic Programming III: Darwinian Invention & Problem Solving"
+      link: "#"
+      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. [_{{{CITATION{{{_1{](https://github.com/ai-independent/ai-independent.github.io/tree/08f91bab764279237e3cbb4c7a922db423eff70e/_members%2Fduyhungnguyen%2Fcv_web.md)
 
 skills:
     title: Skills &amp; Proficiency
