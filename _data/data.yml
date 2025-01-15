@@ -1,37 +1,29 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Shree Singh
-    tagline: Cloud Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: singshre@yahoo.com
-    phone: +91 9922503781
-    timezone: India (IST)
-    citizenship: India
-    website: https://github.com/singshre/Profile
-    linkedin: https://www.linkedin.com/in/shree-singh-2b989a25/
-    xing: 
-    github: singshre
-    telegram: 
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: 
-    codewars:
-    goodreads: 
-    mastodon:  
-    hackerrank: 
-    leetcode: 
-    pdf: 
+  position: right
+  about: true
+  education: true
+  name: Shree Singh
+  tagline: Cloud Developer
+  avatar: profile.png
+  email: singshre@yahoo.com
+  phone: +91 9922503781
+  timezone: India (IST)
+  citizenship: India
+  website: https://github.com/singshre/Profile
+  linkedin: https://www.linkedin.com/in/shree-singh-2b989a25/
+  xing: 
+  github: singshre
+  telegram: 
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: 
+  codewars:
+  goodreads: 
+  mastodon:  
+  hackerrank: 
+  leetcode: 
+  pdf: 
 
 languages:
   title: Languages
@@ -53,7 +45,6 @@ interests:
     - item: Cooking
       link:
 
-
 career-profile:
   title: Career Profile
   summary: |
@@ -71,13 +62,10 @@ education:
       university: MCU Bhopal
       time: 2010 - 2013
       details: |
-        
-    - degree: BCA- Bachelor of Computer Application
+    - degree: BCA - Bachelor of Computer Application
       university: GICTS Gwalior
       time: 2007 - 2010
       details: |
-
-          
 
 experiences:
   title: Experiences
@@ -110,11 +98,10 @@ experiences:
         Prepared deployment plans supported and developed IXOS (Bar Code scanning) and Oracle PL/SQL.
         Provided 24x7 on-call support and maintained relationships with global stakeholders.
 
-    - role: Application Support Specialist
+    - role: Application Support Specialist 
       time: 2019 - 2024
       company: Barclays Global Service Centre Private Limited (Barclays), Pune
       details: |
-        
     - role: Software Engineer
       time: 2014 - 2019
       company: Mphasis Pvt Ltd, Pune
@@ -195,29 +182,27 @@ publications:
     - title: "Genetic Programming III: Darwinian Invention & Problem Solving"
       link: "#"
       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. [_{{{CITATION{{{_1{](https://github.com/ai-independent/ai-independent.github.io/tree/08f91bab764279237e3cbb4c7a922db423eff70e/_members%2Fduyhungnguyen%2Fcv_web.md)
+      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: A syntax directed compiler for Algol 60
+      link: "#"
+      authors: Edgar T. Irons
+      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+  title: Skills & Proficiency
+  toolset:
+    - name: Python & Django
+      level: 98%
+    - name: Javascript & jQuery
+      level: 98%
+    - name: Angular
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
+    - name: Ruby on Rails
+      level: 85%
+    - name: Sketch & Photoshop
+      level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a
